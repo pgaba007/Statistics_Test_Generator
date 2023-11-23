@@ -31,7 +31,7 @@ The generated sample data is based on random number generation and may vary with
 The dashboard assumes basic understanding of statistics and statistical tests.
 
 ## Contributing
-Contributions are welcome! If you have suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request.
+Though this project is under progress, Contributions are welcome! If you have suggestions or improvements for the dashboard, feel free to open an issue or submit a pull request.
 
 ## Future improvements
 
